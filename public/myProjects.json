@@ -1,0 +1,61 @@
+[
+  {
+    "name": "School Manager",
+    "urlSite": "https://school-mngr-puce.vercel.app/auth",
+    "url": "https://github.com/AdrianS2002/school-mngr",
+    "description": "An Angular app to manage school classes, students and attendance, with Role-Based authentification and firebase integration ",
+    "languages": ["TypeScript","CSS","HTML"]
+  },
+  {
+    "name": "FuturesCalculator_PWA",
+    "urlSite": "https://futures-calculator-pwa.vercel.app/",
+    "url": "https://github.com/AdrianS2002/FuturesCalculator_PWA",
+    "description": "A Progressive Web App for calculating crypto futures with offline support.",
+    "languages": ["TypeScript","CSS","HTML"]
+  },
+  {
+    "name": "Expense Tracker",
+    "urlSite": "https://expense-tracker-umber-rho-82.vercel.app/home",
+    "url": "https://github.com/AdrianS2002/ExpenseTracker",
+    "description": "Track your daily expenses, categories and monthly reports.",
+    "languages": ["TypeScript","CSS","HTML"]
+  },
+  {
+    "name": "Elearning Platform",
+    "urlSite": "https://adrians2002.github.io/backtotop.github.io/",
+    "url": "https://github.com/AdrianS2002/backtotop.github.io",
+    "description": "E-learning platform build with Anguular and Node.JS.",
+    "languages": ["TypeScript","JavaScript","CSS","HTML"]
+  },
+  {
+    "name": "Bachelor Degree",
+    "url": "https://github.com/AdrianS2002/FinalProjectUni",
+    "description": "Final university project for a bachelor degree in Computer Science. Implementing an energy optimization algorithm using Particle Swarn Optimization in blockchain using smart Contracts",
+    "languages": ["JavaScript","TypeScript","Solidity","MySQL","HTML","CSS"]
+  },
+  {
+    "name": "Table Reservation",
+    "urlSite": "https://table-reservation-seven.vercel.app/",
+    "url": "https://github.com/AdrianS2002/TableReservation",
+    "description": "Online restaurant table reservation system with real-time availability.",
+    "languages": ["TypeScript","CSS","HTML"]
+  },
+  {
+    "name": "Fitness Store",
+    "url": "https://github.com/AdrianS2002/FitnessStoreReactApp",
+    "description": "E-commerce React app for fitness products, backed by Spring & MySQL.",
+    "languages": ["Java","Spring","React","JavaScript","CSS","HTML","MySQL"]
+  },
+  {
+    "name": "EnergyManagementPlatform",
+    "url": "https://gitlab.com/AdiS2002/ds2024_30644_schiop_adrian-marian_assignment_3",
+    "description": "Java/PostgreSQL platform to monitor and optimize energy usage.",
+    "languages": ["Java","JavaScript","PostgreSQL","HTML","CSS"]
+  },
+  {
+    "name": "Server Request",
+    "url": "https://github.com/AdrianS2002/StoreManagementDB",
+    "description": "Swift-based client-server example for database operations.",
+    "languages": ["Swift"]
+  }
+]
